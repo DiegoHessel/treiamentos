@@ -1,6 +1,6 @@
 package org.example;
 
-public class funcaoMatematica {
+public class FuncaoMatematica {
     public static void main(String[] args) {
         double x = 3.0;
         double y = 4.0;

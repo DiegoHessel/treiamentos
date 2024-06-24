@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Locale;
 
-public class exercicioProdutos {
+public class ExercicioProdutos {
     public static void main(String[] args) {
         String produto1 = "Computador";
         String produto2 = "Mesa de escritório";
